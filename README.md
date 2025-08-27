@@ -1,4 +1,4 @@
-# Building 3D Memory
+# Building 3D Memory （開発中）
 
 建物の3D空間に記憶を紡ぐデジタルアーカイブプラットフォーム
 
