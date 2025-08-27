@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ディスカッション
+    url: https://github.com/your-username/building-3d-memory/discussions
+    about: 質問や議論はディスカッションをご利用ください
+  - name: セキュリティ問題の報告
+    url: https://github.com/your-username/building-3d-memory/security/policy
+    about: セキュリティ上の問題を報告する場合はこちら
